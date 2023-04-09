@@ -1,2 +1,2 @@
 # secret-diary-frontend
-Secret Diary Frontend Repo
+Encrypt all your notes, access anywhere.
